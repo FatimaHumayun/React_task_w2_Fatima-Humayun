@@ -1,6 +1,6 @@
 // CharacterInfo.js
 import React from "react";
-// import "./CharacterInfo.css"; // Make sure to create this CSS file
+// import "./CharacterInfo.css";
 
 export default function CharacterInfo({
   name,
